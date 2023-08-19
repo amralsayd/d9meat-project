@@ -67,8 +67,8 @@ node_modules
 /web/sites/all/modules/README.txt
 /web/sites/all/themes/README.txt
 /web/sites/default/default.services.yml
-/web/sites/default/*settings*.php
-/web/sites/default/default.settings.php
+# /web/sites/default/*settings*.php
+# /web/sites/default/default.settings.php
 /web/sites/development.local.services.yml
 /web/sites/default/services.yml
 /web/sites/example.settings.local.php
