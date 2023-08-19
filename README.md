@@ -28,7 +28,7 @@ $databases['default']['default'] = array (
 ```html
 	<VirtualHost d9meat-project.local.com:80>
 	  ServerAdmin webmaster@dummy-host2.example.com
-	  DocumentRoot "C:/xampp8/htdocs/d9meat-project/web"
+	  DocumentRoot "C:/xampp/htdocs/d9meat-project/web"
 	  ServerName d9meat-project.local.com
 	  ServerAlias www.d9meat-project.local.com
 	  ErrorLog "logs/d9meat-project.local.com-error.log"
