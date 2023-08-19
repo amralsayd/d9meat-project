@@ -1,0 +1,7 @@
+json_export.category_listing:
+  path: 'api/pages'
+  defaults:
+    _title: 'Pages List'
+    _controller: '\Drupal\json_export\Controller\ApisController::getPages'
+  requirements:
+    _permission: 'access content'
